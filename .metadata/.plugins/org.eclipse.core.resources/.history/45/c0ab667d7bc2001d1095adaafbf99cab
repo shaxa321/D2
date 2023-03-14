@@ -1,0 +1,7 @@
+
+public class Main {
+	public static void main(String[] args) {
+         Rettangolo rettangolo1 = new Rettangolo(40f,50f);
+         rettangolo1.stampaRettangolo();
+    }
+}
